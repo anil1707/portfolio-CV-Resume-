@@ -1,0 +1,38 @@
+body{
+    padding: 10px;
+    margin: 80px;
+    border: 2px solid rgb(15, 15, 15);
+    /* background-color: aqua; */
+ 
+}
+
+section{
+    margin-top: 10px;
+    background-color: rgb(233, 252, 252);
+    border: 1px solid black;
+    padding: 10px;
+}
+
+header {
+    background-color: rgb(177, 158, 158);
+    /* color: red; */
+    /* margin: px; */
+    padding: 10px;
+    border: 1px solid black;
+}
+
+a{
+    text-decoration: none;
+}
+section div{
+    border: 1px solid black;
+    padding-left: 10px;
+    margin: 0.1%;
+    margin-bottom: 0;
+    /* margin: 1px; */
+    /* padding: 10px; */
+}
+
+li{
+    line-height: 1.6;
+}
